@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header logo">
-                    <img class="brand-logo" src="{{ asset('edinkite-logo.png') }}" alt="Brand-logo" width: 80px>
+                    <img class="brand-logo" src="{{ asset('edinkite-logo.png') }}" alt="Brand-logo">
                 </div>
 
                 <div class="card-body">
